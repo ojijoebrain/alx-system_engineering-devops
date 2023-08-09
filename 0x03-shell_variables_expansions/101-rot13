@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -c bin /etc/passwd
+tr A-Za-z N-ZA-Mn-za-m
