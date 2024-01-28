@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# displas bash PID
+
+ps -auxf | grep "bash"
