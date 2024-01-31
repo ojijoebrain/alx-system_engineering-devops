@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
-#puts ARGV[0].scan(/School/).join
+## regular expression mathing method for 1 argument
 #
+#puts ARGV[0].scan(/School/).join
